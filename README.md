@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/summbal122/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/summbal122/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/summbal122/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
