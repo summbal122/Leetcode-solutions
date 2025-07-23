@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/summbal122/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/summbal122/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/summbal122/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/summbal122/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
