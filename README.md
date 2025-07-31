@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/summbal122/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/summbal122/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/summbal122/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/summbal122/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
