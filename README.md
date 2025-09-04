@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/summbal122/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/summbal122/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/summbal122/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/summbal122/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/summbal122/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/summbal122/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/summbal122/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/summbal122/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/summbal122/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/summbal122/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
