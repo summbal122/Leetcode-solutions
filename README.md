@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/summbal122/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/summbal122/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/summbal122/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [3324-split-the-array](https://github.com/summbal122/Leetcode-solutions/tree/master/3324-split-the-array) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/summbal122/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/summbal122/Leetcode-solutions/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
