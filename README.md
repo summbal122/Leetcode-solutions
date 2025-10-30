@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/summbal122/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/summbal122/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/summbal122/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/summbal122/Leetcode-solutions/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/summbal122/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
