@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/summbal122/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/summbal122/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/summbal122/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/summbal122/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/summbal122/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3324-split-the-array](https://github.com/summbal122/Leetcode-solutions/tree/master/3324-split-the-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/summbal122/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/summbal122/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/summbal122/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/summbal122/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/summbal122/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/summbal122/Leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/summbal122/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/summbal122/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/summbal122/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/summbal122/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
